@@ -1,0 +1,40 @@
+.box{
+    background-color: #d9eee1;
+    width: 40%;
+    padding: 10px 15px;
+    position: relative;
+
+}
+
+.img_1{
+    width: 2rem;
+    
+}
+
+.img_2{
+    width: 1rem;
+    right: 1rem;
+    position: absolute;
+
+    /* margin-left: 4.5rem;
+    background-color: red;
+    border: 2px solid red; */
+    
+}
+
+.btn{
+    background-color: #9763f6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+
+    border-radius: 1rem;
+}
+
+.my_p{
+    font-size: 30px;
+}
+
+.mycss{
+    color: blue;
+}
